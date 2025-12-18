@@ -1,11 +1,9 @@
 # undergraduate-nonstationary-imbalanced-ml-thesis
-This repository contains the code for my undergraduate thesis. The work focuses on machine learning problems where data is nonstationary and class distribution is imbalanced.
+
 # A Diagnostic-Driven Framework for Hybrid ML in Nonstationary and Imbalanced Data
 
 ## Overview
-This repository contains the code for my undergraduate thesis.
-The work focuses on machine learning problems where data is
-nonstationary and class distribution is imbalanced at the same time.
+This repository contains the code for my undergraduate thesis. The work focuses on machine learning problems where data is nonstationary and class distribution is imbalanced.
 
 ## Motivation
 In real-world datasets, data distributions often change over time
