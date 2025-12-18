@@ -69,4 +69,28 @@ The results show that:
 ---
 
 ## Repository Structure
+├── data/ # Raw and processed datasets
+├── code/ # Python scripts for diagnostics and modeling
+├── results/ # Experimental outputs and figures
+├── thesis/ # Thesis document (LaTeX / Word)
+└── README.md
+## Tools and Libraries
 
+- Python  
+- pandas, numpy  
+- scikit-learn  
+- statsmodels  
+- matplotlib  
+
+---
+
+## Notes
+
+This repository is part of an **undergraduate thesis project**.  
+Code and datasets can be provided upon request.
+
+---
+
+## License
+
+This project is for academic and educational purposes only.
